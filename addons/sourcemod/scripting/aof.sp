@@ -23,6 +23,7 @@ public Plugin myinfo =
 public void OnPluginStart()
 {
 	HookEvent("player_spawn", SpawnEvent, EventHookMode);
+	HookEvent("game_start", GameStart, EventHookMode);
 }
 
 public Action:SpawnEvent(Handle event,char[] name,bool dontBroadcast)
@@ -38,4 +39,9 @@ public Action:SpawnEvent(Handle event,char[] name,bool dontBroadcast)
 	{
 		PrintToServer("NOT WORKING");
 	}
+}
+
+public Action:GameStart(Handle event, char[] name, bool dontBroadcast)
+{
+	ServerCommand("melee 1");
 }
