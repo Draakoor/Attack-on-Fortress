@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_AZTEC/ROAD01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/aot_trost_v3/c0_0_0"
+	}
+}

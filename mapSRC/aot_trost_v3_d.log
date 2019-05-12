@@ -1,0 +1,1054 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material de_tides/tides_floor_stone_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-2925.03 7190.40 644.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.96, 178.00)
+Degenerate Triangle
+(-23.00, 11756.51, 178.00), (-23.00, 11756.51, 178.00), (-21.50, 11756.63, 178.00)
+Degenerate Triangle
+(-23.00, 11756.51, 178.00), (-23.00, 11756.51, 178.00), (-24.50, 11756.65, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4041246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 953 texinfos to 324
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22781 faces
+6 degenerate faces
+50341932 square feet [7249238016.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196416.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4086 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0.
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material de_tides/tides_floor_stone_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-2925.03 7190.40 644.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.96, 178.00)
+Degenerate Triangle
+(-23.00, 11756.51, 178.00), (-23.00, 11756.51, 178.00), (-21.50, 11756.63, 178.00)
+Degenerate Triangle
+(-23.00, 11756.51, 178.00), (-23.00, 11756.51, 178.00), (-24.50, 11756.65, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4041246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 953 texinfos to 324
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22781 faces
+6 degenerate faces
+50341932 square feet [7249238016.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196416.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5..
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-4296.82 8270.57 377.86) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4039205 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 326
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-4296.82 8270.57 377.86) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4039205 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 326
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-846.00 -1859.00 46.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4040107 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 327
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22802 faces
+6 degenerate faces
+50375376 square feet [7254053888.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196352.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3961 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes                824/8192         9888/98304    (10.1%) 
+brushsides            6735/65536       53880/524288   (10.3%) 
+planes                8376/65536      167520/1310720  (12.8%) 
+vertexes             30379/65536      364548/786432   (46.4%) 
+nodes                11311/65536      361952/2097152  (17.3%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos              128/0           22528/0        ( 0.0%) 
+disp_verts           19088/0          381760/0        ( 0.0%) 
+disp_tris            32704/0           65408/0        ( 0.0%) 
+disp_lmsamples     1029994/0         1029994/0        ( 0.0%) 
+faces                22802/65536     1276912/3670016  (34.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3686/65536      206416/3670016  ( 5.6%) 
+leaves               11417/65536      365344/2097152  (17.4%) 
+leaffaces            25725/65536       51450/131072   (39.3%) 
+leafbrushes           5151/65536       10302/131072   ( 7.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           116618/512000     466472/2048000  (22.8%) 
+edges                60565/256000     242260/1024000  (23.7%) 
+LDR worldlights         37/8192         3256/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1245/32768       12450/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16830/65536       33660/131072   (25.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    35503236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       92058/393216   (23.4%) 
+LDR ambient table    11417/65536       45668/262144   (17.4%) 
+HDR ambient table    11417/65536       45668/262144   (17.4%) 
+LDR leaf ambient     55729/65536     1560412/1835008  (85.0%) VERY FULL!
+HDR leaf ambient     11417/65536      319676/1835008  (17.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3534     ( 0.0%) 
+pakfile               [variable]      174750/0        ( 0.0%) 
+physics               [variable]     4040107/4194304  (96.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 55894
+Writing c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+1 minute, 40 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-846.00 -1859.00 46.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4040659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 920 texinfos to 330
+Reduced 44 texdatas to 40 (1111 bytes to 936)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22808 faces
+6 degenerate faces
+50375488 square feet [7254070272.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196352.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3897 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 106/1024         5088/49152    (10.4%) 
+brushes                825/8192         9900/98304    (10.1%) 
+brushsides            6741/65536       53928/524288   (10.3%) 
+planes                8380/65536      167600/1310720  (12.8%) 
+vertexes             30387/65536      364644/786432   (46.4%) 
+nodes                11317/65536      362144/2097152  (17.3%) 
+texinfos               330/12288       23760/884736   ( 2.7%) 
+texdata                 40/2048         1280/65536    ( 2.0%) 
+dispinfos              128/0           22528/0        ( 0.0%) 
+disp_verts           19088/0          381760/0        ( 0.0%) 
+disp_tris            32704/0           65408/0        ( 0.0%) 
+disp_lmsamples     1029994/0         1029994/0        ( 0.0%) 
+faces                22808/65536     1277248/3670016  (34.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3692/65536      206752/3670016  ( 5.6%) 
+leaves               11424/65536      365568/2097152  (17.4%) 
+leaffaces            25731/65536       51462/131072   (39.3%) 
+leafbrushes           5152/65536       10304/131072   ( 7.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           116666/512000     466664/2048000  (22.8%) 
+edges                60589/256000     242356/1024000  (23.7%) 
+LDR worldlights         37/8192         3256/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1245/32768       12450/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16830/65536       33660/131072   (25.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    35503236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       93186/393216   (23.7%) 
+LDR ambient table    11424/65536       45696/262144   (17.4%) 
+HDR ambient table    11424/65536       45696/262144   (17.4%) 
+LDR leaf ambient     55735/65536     1560580/1835008  (85.0%) VERY FULL!
+HDR leaf ambient     11424/65536      319872/1835008  (17.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3534     ( 0.0%) 
+pakfile               [variable]      174750/0        ( 0.0%) 
+physics               [variable]     4040659/4194304  (96.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 55906
+Writing c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+1 minute, 42 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-846.00 -1859.00 46.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4041211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 923 texinfos to 333
+Reduced 44 texdatas to 40 (1111 bytes to 936)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22814 faces
+6 degenerate faces
+50375552 square feet [7254079488.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196352.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3887 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 107/1024         5136/49152    (10.4%) 
+brushes                826/8192         9912/98304    (10.1%) 
+brushsides            6747/65536       53976/524288   (10.3%) 
+planes                8392/65536      167840/1310720  (12.8%) 
+vertexes             30395/65536      364740/786432   (46.4%) 
+nodes                11323/65536      362336/2097152  (17.3%) 
+texinfos               333/12288       23976/884736   ( 2.7%) 
+texdata                 40/2048         1280/65536    ( 2.0%) 
+dispinfos              128/0           22528/0        ( 0.0%) 
+disp_verts           19088/0          381760/0        ( 0.0%) 
+disp_tris            32704/0           65408/0        ( 0.0%) 
+disp_lmsamples     1029994/0         1029994/0        ( 0.0%) 
+faces                22814/65536     1277584/3670016  (34.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3698/65536      207088/3670016  ( 5.6%) 
+leaves               11431/65536      365792/2097152  (17.4%) 
+leaffaces            25737/65536       51474/131072   (39.3%) 
+leafbrushes           5153/65536       10306/131072   ( 7.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           116714/512000     466856/2048000  (22.8%) 
+edges                60613/256000     242452/1024000  (23.7%) 
+LDR worldlights         37/8192         3256/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1245/32768       12450/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16830/65536       33660/131072   (25.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    35503236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       93671/393216   (23.8%) 
+LDR ambient table    11431/65536       45724/262144   (17.4%) 
+HDR ambient table    11431/65536       45724/262144   (17.4%) 
+LDR leaf ambient     55741/65536     1560748/1835008  (85.1%) VERY FULL!
+HDR leaf ambient     11431/65536      320068/1835008  (17.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3534     ( 0.0%) 
+pakfile               [variable]      174750/0        ( 0.0%) 
+physics               [variable]     4041211/4194304  (96.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 55918
+Writing c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+1 minute, 45 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-846.00 -1859.00 46.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4041211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 923 texinfos to 333
+Reduced 44 texdatas to 40 (1111 bytes to 936)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22814 faces
+6 degenerate faces
+50375552 square feet [7254079488.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196352.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3854 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 107/1024         5136/49152    (10.4%) 
+brushes                826/8192         9912/98304    (10.1%) 
+brushsides            6747/65536       53976/524288   (10.3%) 
+planes                8392/65536      167840/1310720  (12.8%) 
+vertexes             30395/65536      364740/786432   (46.4%) 
+nodes                11323/65536      362336/2097152  (17.3%) 
+texinfos               333/12288       23976/884736   ( 2.7%) 
+texdata                 40/2048         1280/65536    ( 2.0%) 
+dispinfos              128/0           22528/0        ( 0.0%) 
+disp_verts           19088/0          381760/0        ( 0.0%) 
+disp_tris            32704/0           65408/0        ( 0.0%) 
+disp_lmsamples     1029994/0         1029994/0        ( 0.0%) 
+faces                22814/65536     1277584/3670016  (34.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3698/65536      207088/3670016  ( 5.6%) 
+leaves               11431/65536      365792/2097152  (17.4%) 
+leaffaces            25737/65536       51474/131072   (39.3%) 
+leafbrushes           5153/65536       10306/131072   ( 7.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           116714/512000     466856/2048000  (22.8%) 
+edges                60613/256000     242452/1024000  (23.7%) 
+LDR worldlights         37/8192         3256/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1245/32768       12450/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16830/65536       33660/131072   (25.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    35503236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       93671/393216   (23.8%) 
+LDR ambient table    11431/65536       45724/262144   (17.4%) 
+HDR ambient table    11431/65536       45724/262144   (17.4%) 
+LDR leaf ambient     55741/65536     1560748/1835008  (85.1%) VERY FULL!
+HDR leaf ambient     11431/65536      320068/1835008  (17.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3534     ( 0.0%) 
+pakfile               [variable]      174750/0        ( 0.0%) 
+physics               [variable]     4041211/4194304  (96.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 55918
+Writing c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+1 minute, 45 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.vmf
+Can't find surfaceprop stone for material DE_TIDES/TIDES_FLOOR_STONE_1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/aot_trost_v3_d/de_chateau/rockf_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-846.00 -1859.00 46.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_07*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+Degenerate Triangle
+(-32.00, 11600.50, 302.00), (-13.72, 11619.25, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-13.72, 11619.25, 302.00), (-32.00, 11638.00, 302.00), (-13.72, 11619.25, 302.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-21.50, 11756.95, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-21.50, 11756.62, 178.00)
+Degenerate Triangle
+(-23.00, 11756.50, 178.00), (-23.00, 11756.50, 178.00), (-24.50, 11756.64, 178.00)
+Degenerate Triangle
+(-23.00, 11756.49, 178.00), (-23.00, 11756.49, 178.00), (-24.50, 11756.63, 178.00)
+done (0) (4040107 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 914 texinfos to 327
+Reduced 43 texdatas to 39 (1093 bytes to 918)
+Writing C:\Users\Domin\Downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Wrote ZIP buffer, estimated size 175768, actual size 174750
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+reading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+LoadPortals: couldn't read c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+22802 faces
+6 degenerate faces
+50375376 square feet [7254053888.00 square inches]
+128 Displacements
+7355530 Square Feet [1059196352.00 Square Inches]
+37 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4089 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 105/1024         5040/49152    (10.3%) 
+brushes                824/8192         9888/98304    (10.1%) 
+brushsides            6735/65536       53880/524288   (10.3%) 
+planes                8376/65536      167520/1310720  (12.8%) 
+vertexes             30379/65536      364548/786432   (46.4%) 
+nodes                11311/65536      361952/2097152  (17.3%) 
+texinfos               327/12288       23544/884736   ( 2.7%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos              128/0           22528/0        ( 0.0%) 
+disp_verts           19088/0          381760/0        ( 0.0%) 
+disp_tris            32704/0           65408/0        ( 0.0%) 
+disp_lmsamples     1029994/0         1029994/0        ( 0.0%) 
+faces                22802/65536     1276912/3670016  (34.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3686/65536      206416/3670016  ( 5.6%) 
+leaves               11417/65536      365344/2097152  (17.4%) 
+leaffaces            25725/65536       51450/131072   (39.3%) 
+leafbrushes           5151/65536       10302/131072   ( 7.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           116618/512000     466472/2048000  (22.8%) 
+edges                60565/256000     242260/1024000  (23.7%) 
+LDR worldlights         37/8192         3256/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1245/32768       12450/327680   ( 3.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         16830/65536       33660/131072   (25.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    35503236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       99856/393216   (25.4%) 
+LDR ambient table    11417/65536       45668/262144   (17.4%) 
+HDR ambient table    11417/65536       45668/262144   (17.4%) 
+LDR leaf ambient     55728/65536     1560384/1835008  (85.0%) VERY FULL!
+HDR leaf ambient     11417/65536      319676/1835008  (17.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3534     ( 0.0%) 
+pakfile               [variable]      174750/0        ( 0.0%) 
+physics               [variable]     4040107/4194304  (96.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 55894
+Writing c:\users\domin\downloads\bspsrc_1.3.24\maps\aot_trost_v3_d.bsp
+1 minute, 44 seconds elapsed
